@@ -1,0 +1,5 @@
+package com.spring.mvc.security.config
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer
+
+class SecurityWebApplicationInitializer : AbstractSecurityWebApplicationInitializer()
